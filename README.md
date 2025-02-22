@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 <p align="center">
   <img src="images/new_logo.png" alt="QuickSched" height=400>
 </p>
@@ -12,9 +10,7 @@
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/AndrewRoe34/quick-sched/gradle.yml?style=for-the-badge)](https://github.com/AndrewRoe34/quick-sched/actions)
 [![GitHub Release](https://img.shields.io/github/v/release/AndrewRoe34/quick-sched?include_prereleases&style=for-the-badge&color=orange)](https://github.com/AndrewRoe34/quick-sched/releases)
 
-# Important
-
-This is an archive of quick-sched as it was publicly available under the MIT License before it was taken down. I am not the original author. This version remains open-source under the original MIT License.
+**DISCLAIMER! This is an archive of quick-sched as it was publicly available under the MIT License before it was taken down. I am not the original author. This version remains open-source under the original MIT License.**
 
 QuickSched is a robust, dynamic scheduling platform that provides unparalleled automation for generating timetabled daily/weekly schedules. This platform comes with its own scheduling, timetabling, serialization tooling, intelligent/flexible parser, integrated systems logging, and Google Calendar support.
 
@@ -351,10 +347,3 @@ References:
 Use 'doc <topic>' to view detailed information.
 ```
 
-## Contributing
-
-We welcome contributions from everyone who is interested in improving QuickSched and expanding its capabilities. Whether you're fixing bugs, adding new features, or improving documentation, your help is appreciated!
-
-# Before you start contributing, please make sure to read our [CONTRIBUTING.md](CONTRIBUTING.md) file. It contains all the information you need to get started, including how to submit pull requests, our coding standards, and the process for reporting bugs.
-
-> > > > > > > archive/main
